@@ -5,6 +5,18 @@
   --light: #f6f7fc;
   --dark: #15233c;
 }
+*,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+  font-family: "Cairo", sans-serif;
+}
 
 .back-to-top {
   position: fixed;
